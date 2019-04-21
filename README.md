@@ -1,5 +1,5 @@
 # filtfilt
- * We wirte a filtflit function in java . The filtflit's output is the same as it's in Matlab .
+ * We write a filtflit function in java . The filtflit's output is the same as it's in Matlab .
 ==
  * @author 黄大卫,胡盼
  * @version 1.0
